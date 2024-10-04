@@ -76,10 +76,10 @@ p {
 }
 
 .left-area h3 {
-  font-size: 26px;
+  font-size: 25px;
   line-height: 18px;
   font-weight: 500;
-  margin-bottom: 42px;
+  margin-bottom: 46px;
 }
 .result {
   width: 200px;
@@ -110,13 +110,13 @@ p {
 .left-area h2 {
   font-size: 32px;
   color: var(--white);
-  padding: 22px 0 13px;
-
+  padding: 13px;
+  margin-top: 14px;
   font-weight: 700;
 }
 .left-area p {
   padding: 0 10px;
-  margin-bottom: 11px;
+  margin-bottom: 8px;
 }
 
 .right-area {
@@ -176,7 +176,7 @@ p {
 
 .right-area button {
   display: block;
-  font-size: 17px;
+  font-size: 16px;
   font-weight: 700;
   width: 100%;
   padding: 17.5px;
@@ -184,7 +184,7 @@ p {
   border-radius: 30px;
   color: var(--white);
   background: var(--darkGrayBlue);
-  margin-top: 42px;
+  margin-top: 40px;
   cursor: pointer;
 }
 
