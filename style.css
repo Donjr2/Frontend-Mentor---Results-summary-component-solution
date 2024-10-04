@@ -76,10 +76,10 @@ p {
 }
 
 .left-area h3 {
-  font-size: 25px;
+  font-size: 24px;
   line-height: 18px;
   font-weight: 500;
-  margin-bottom: 44px;
+  margin-bottom: 42px;
 }
 .result {
   width: 200px;
@@ -116,7 +116,7 @@ p {
 }
 .left-area p {
   padding: 0 10px;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 
 .right-area {
