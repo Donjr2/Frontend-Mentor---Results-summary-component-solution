@@ -76,10 +76,10 @@ p {
 }
 
 .left-area h3 {
-  font-size: 23px;
+  font-size: 26px;
   line-height: 18px;
   font-weight: 500;
-  margin-bottom: 40px;
+  margin-bottom: 42px;
 }
 .result {
   width: 200px;
@@ -110,12 +110,12 @@ p {
 .left-area h2 {
   font-size: 32px;
   color: var(--white);
-  padding: 26px 0 13px;
+  padding: 22px 0 13px;
 
   font-weight: 700;
 }
 .left-area p {
-  letter-spacing: 0.5px;
+  padding: 0 10px;
   margin-bottom: 11px;
 }
 
@@ -132,7 +132,7 @@ p {
   align-items: center;
   justify-content: space-between;
   padding: 15px 16px;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
   border-radius: 10px;
 }
 .score p {
@@ -176,7 +176,8 @@ p {
 
 .right-area button {
   display: block;
-  font-size: 18px;
+  font-size: 17px;
+  font-weight: 700;
   width: 100%;
   padding: 17.5px;
   border: none;
