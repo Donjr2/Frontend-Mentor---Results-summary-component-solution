@@ -44,7 +44,7 @@ body {
   align-items: center;
 }
 p {
-  font-size: 18px;
+  font-size: 1.125rem;
   font-weight: 500;
 }
 .main-area {
@@ -76,8 +76,8 @@ p {
 }
 
 .left-area h3 {
-  font-size: 24px;
-  line-height: 18px;
+  font-size: 1.5rem;
+  line-height: 1.125rem;
   font-weight: 500;
   margin-bottom: 42px;
 }
@@ -98,17 +98,17 @@ p {
 }
 
 .result p {
-  line-height: 22px;
+  line-height: 1.375rem;
 }
 .result h1 {
-  font-size: 72px;
-  line-height: 72px;
+  font-size: 4.5rem;
+  line-height: 4.5rem;
   font-weight: 800;
   padding: 18px 0 4px;
   color: var(--white);
 }
 .left-area h2 {
-  font-size: 32px;
+  font-size: 2rem;
   color: var(--white);
   padding: 13px;
   margin-top: 14px;
@@ -124,7 +124,7 @@ p {
   padding: 40px;
 }
 .right-area h2 {
-  line-height: 20px;
+  line-height: 1.25rem;
   padding-bottom: 34px;
 }
 .score {
@@ -143,6 +143,7 @@ p {
   padding-left: 4px;
 }
 .score h3 {
+  font-size: 1rem;
   display: flex;
   align-items: center;
 }
@@ -176,7 +177,7 @@ p {
 
 .right-area button {
   display: block;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 700;
   width: 100%;
   padding: 17.5px;
